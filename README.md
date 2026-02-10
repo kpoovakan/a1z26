@@ -11,7 +11,7 @@ The Turbowarp <a href="https://github.com/TurboWarp/extensions">extensions</a> u
 LilyMakesThings, GarboMuffin, SharkPool, and Mio.
 The <a href="https://www.dafont.com/jackwrite.font">Jackwrite</a> font was used in this program.
 
-<!-- license goes here -->
+This program is licensed with the <a href="https://github.com/kpoovakan/a1z26/blob/main/LICENSE">Boost Software License 1.0</a>.
 
 Collaboration requests and pull requests will not be accepted into the main branch (or the original
 program), but you are welcome to create your own derivatives of this program.
