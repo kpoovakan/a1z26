@@ -14,6 +14,9 @@ The <a href="https://www.dafont.com/jackwrite.font">Jackwrite</a> font was used 
 This program is licensed with the <a href="https://github.com/kpoovakan/a1z26/blob/main/LICENSE">Boost Software License 1.0</a>.
 
 Collaboration requests and pull requests will not be accepted into the main branch (or the original
-program), but you are welcome to create your own derivatives of this program.
+program), but you are welcome to create your own derivatives of this program. The
+<a href="https://kpoovakan.github.io/a1z26/a1z26_turbowarp_file.sb3">.sb3 file</a>
+uses Turbowarp extensions and can only be uploaded to the
+<a href="https://turbowarp.org/editor">Turbowarp editor</a>.
 
 pi is an amazing number!
